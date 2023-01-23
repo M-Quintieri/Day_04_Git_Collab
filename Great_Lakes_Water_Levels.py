@@ -59,4 +59,8 @@ import matplotlib.pyplot as plt
 # Level vs Ontario Water Level to see if there is any correlation 
 # between the water levels.
 
+<<<<<<< HEAD
 #hi
+=======
+
+>>>>>>> ea55d945883e33a69af564e318810a2d700b56d3
